@@ -1,7 +1,5 @@
 # Happy Birthday
 
-## Demo
+## [Demo](https://soonlystream.github.io/happyBirthday-main/)
 
-Kunjungi halaman demo [di sini](https://soonlystream.github.io/happyBirthday-main/).
-
-![Preview](https://soonlystream.github.io/happyBirthday-main/img/preview-screenshot.png)
+![Preview](https://soonlystream.github.io/happyBirthday-main/img/preview-image.png)
