@@ -13,7 +13,7 @@
     $ git clone https://github.com/hndrapratamaa/happyBirthday-main.git
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd happyBirthday-main
 
     # Open it with your text editor
     $ code .
