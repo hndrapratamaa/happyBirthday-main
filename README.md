@@ -10,7 +10,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://hndrapratamaa.github.io
+    $ https://github.com/hndrapratamaa/happyBirthday-main.git
 
     # Go into the repository
     $ happyBirthday-main
