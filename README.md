@@ -6,26 +6,33 @@
 
 ## 🚀 How to Use
 
-1.  **Clone Repository**
+1. **Clone Repository**
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/hndrapratamaa/happyBirthday-main.git
+    git clone https://github.com/hndrapratamaa/happyBirthday-main.git
 
     # Go into the repository
-    $ cd happyBirthday-main
+    cd happyBirthday-main
 
-    # Open it with your text editor
-    $ code .
+    # Open it with your text editor (VSCode in this example)
+    code .
     ```
 
 2. **Open with Live Server**
 
+    After opening the project in VSCode, you can use the Live Server extension to view your site.  
     Your site is now running!
 
 3. **Deployment**
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
+    To make your site accessible online, you can enable GitHub Pages for the repository:
+
+    1. Go to your repository's **Settings**.
+    2. Under **Pages**, select the branch you want to deploy (usually `main` or `gh-pages`).
+    3. Save, and your site will be live.
+
+    Alternatively, you can deploy it using [Netlify](https://www.netlify.com/), which provides easy continuous deployment from GitHub.
 
 ## 📝 Contributing
 
