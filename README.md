@@ -26,13 +26,7 @@
 
 3. **Deployment**
 
-    To make your site accessible online, you can enable GitHub Pages for the repository:
-
-    1. Go to your repository's **Settings**.
-    2. Under **Pages**, select the branch you want to deploy (usually `main` or `gh-pages`).
-    3. Save, and your site will be live.
-
-    Alternatively, you can deploy it using [Netlify](https://www.netlify.com/), which provides easy continuous deployment from GitHub.
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
 
 ## 📝 Contributing
 
